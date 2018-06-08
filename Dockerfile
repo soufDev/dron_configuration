@@ -1,1 +1,1 @@
-FROM drone/drone:latest
+FROM drone/drone:0.8

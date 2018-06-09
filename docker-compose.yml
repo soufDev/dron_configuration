@@ -14,7 +14,7 @@ services:
       - DRONE_HOST=http://ait-akkache-soufiane.info:8000
       - DRONE_GITHUB=true
       - DRONE_GITHUB_CLIENT=2bc1c4772c69e26f403e
-      - DRONE_GITHUB_SECRET=ac18ad49b801e942e5891d13431be2032720e448
+      - DRONE_GITHUB_SECRET=8a8744263d69a804da08116b73b9cefb4489c7b6
       - DRONE_SECRET=secretKey
 
   drone-agent:
